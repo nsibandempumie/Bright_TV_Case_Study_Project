@@ -254,24 +254,11 @@ Summarises the key business findings and strategic recommendations.
 
 The analysis revealed several important findings.
 
-- Certain TV channels consistently outperform others.
-- Viewer engagement peaks during specific periods of the day.
-- Weekend viewing behaviour differs from weekdays.
-- Audience demographics influence viewing behaviour.
-- Regional differences provide opportunities for targeted marketing.
-- Dashboard KPIs enable management to monitor business performance effectively.
-
 ---
 
 # 📢 Business Recommendations
 
 Based on the findings, the following recommendations were proposed.
-
-- Invest more resources into high-performing channels.
-- Schedule premium content during peak viewing periods.
-- Develop targeted marketing campaigns for high-engagement audience groups.
-- Improve engagement strategies within lower-performing regions.
-- Continue monitoring customer behaviour using interactive dashboards.
 
 ---
 
