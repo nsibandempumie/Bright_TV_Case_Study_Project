@@ -288,36 +288,6 @@ Based on the findings, the following recommendations were proposed.
 | Miro | Project Planning |
 | GitHub | Version Control & Documentation |
 
----
-
-# 📁 Repository Structure
-
-```
-Bright-TV-Viewership-Analysis/
-│
-├── README.md
-│
-├── Project Description/
-│   ├── Bright_TV_Case_Study.pdf
-│   └── Bright_TV_Dataset.xlsx
-│
-├── Project Planning/
-│   ├── Miro_Flowchart.pdf
-│   └── Gantt_Chart.png
-│
-├── SQL/
-│   └── Bright_TV_SQL_Analysis.sql
-│
-├── Dashboards/
-│   ├── Bright_TV_Pulse_Link.md
-│   ├── Looker_Studio.pdf
-│   ├── Google_Sheets_Dashboard.xlsx
-│   └── Dashboard_Screenshots/
-│
-├── Presentation/
-│   └── Bright_TV_Presentation.pdf
-
-```
 
 ---
 
