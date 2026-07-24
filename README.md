@@ -278,7 +278,7 @@ Based on the findings, the following recommendations were proposed.
 
 ---
 
-# 📷 Project Screenshots
+# 📷 Project Consists of:
 
 - Executive Dashboard
 - Channel Performance Dashboard
